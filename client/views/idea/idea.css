@@ -1,0 +1,22 @@
+.idea {
+	cursor: text;
+}
+
+.idea-title {
+	font-family: 'Roboto Slab';
+	display: block;
+	height: 28px;
+	margin-top: -1px;
+	margin-bottom: -1px;
+}
+
+.idea-description {
+	margin-top: 5px;
+}
+
+.label {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 14px;
+	vertical-align: middle;
+}
